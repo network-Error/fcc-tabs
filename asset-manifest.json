@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-tabs/static/css/main.d39f66c4.css",
+    "main.js": "/fcc-tabs/static/js/main.c11793a6.js",
+    "static/js/453.ccc1869b.chunk.js": "/fcc-tabs/static/js/453.ccc1869b.chunk.js",
+    "index.html": "/fcc-tabs/index.html",
+    "main.d39f66c4.css.map": "/fcc-tabs/static/css/main.d39f66c4.css.map",
+    "main.c11793a6.js.map": "/fcc-tabs/static/js/main.c11793a6.js.map",
+    "453.ccc1869b.chunk.js.map": "/fcc-tabs/static/js/453.ccc1869b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d39f66c4.css",
+    "static/js/main.c11793a6.js"
+  ]
+}
